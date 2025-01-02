@@ -1,0 +1,174 @@
+FONTES:
+---------------------------------------------------------
+Escola Estadual de Educação Profissional Ensino Médio Integrado a Educação Profissional 
+
+PDF DO CURSO DE INFORMÁTICA | LÓGICA DE PROGRAMAÇÃO
+Governo do Estado do Ceará - Secretaria da Educação
+
+Logica de Programação e Algoritmos com JavaScript
+Edécio Fernando Iepsen - Novatec
+-----------------------------------------------------------
+
+Lógica trata da correção do pensamento. Como filosofia, ela procura saber por que pensamos assim e não de outro jeito. Com arte ou técnica, ela nos ensina a usar 
+corretamente as leis do pensamento. 
+O filósofo grego Aristóteles é considerado o criador da lógica, em sua época denominava-se 
+razão, depois que a palavra lógica começou a ser utilizada, esta tem origem do grego logos
+que significa linguagem racional. 
+Poderíamos dizer também que a Lógica é a arte de pensar corretamente e, visto que a 
+forma mais complexa do pensamento é o raciocínio, a Lógica estuda ou tem em vista a 
+correção do raciocínio. 
+Podemos ainda dizer que a lógica tem em vista a ordem da razão. Isto dá a entender que a 
+nossa razão pode funcionar desordenadamente, pode pôr as coisas de pernas para o ar. Por 
+isso a Lógica ensina a colocar Ordem no Pensamento. 
+Desordem: “E se eu escolher aquilo?” ou “É, mais eu não tinha pensado nisso”.
+Enfim, lógica é ciência que coloca a cabeça para funcionar corretamente. 
+Para chegarmos à conclusão de algo utilizamos as premissas que são conhecimentos 
+prévios, desta forma organizamos o pensamento, com a organização do mesmo é que 
+concluímos se algo é verdadeiro ou falso. 
+
+Utilizamos a lógica de forma natural em nosso dia-a-dia. Por exemplo: 
+
+a) Sei que o livro está no armário. 
+Sei que o armário está fechado 
+
+Logo, concluo que tenho de abrir o armário para pegar o livro. 
+Vamos observar neste exemplo as premissas e os pontos os quais levam a conclusão deste 
+fato. 
+
+1ª. (premissa) Sei que o A está no B. 
+2ª. (premissa) Sei que o B está fechado. 
+3ª. (conclusão) Logo, concluo que tenho de abrir o armário para pegar o livro. 
+  
+Sendo A o livro ou qualquer outra coisa que tenho que pegar em B(armário), tenho o 
+conhecimento prévio de que o que quero pegar está no armário e o mesmo encontra-se fechado. 
+
+Neste exemplo do dia-a-dia tenho duas premissas que através delas chego a uma 
+conclusão. 
+ 
+b) Sei que sou mais velho que João. (premissa) 
+Sei que João é mais velho que José. (premissa) 
+
+Então, concluo que eu sou mais velho que José. (conclusão) 
+Neste exemplo só consigo chegar a uma conclusão de que sou mais velho que alguém se existirem as duas premissas, só com apenas uma não conseguiria chegar a uma conclusão.
+
+1. vejam os seguintes fatos: 
+• Todos os filhos de José são mais altos do que Maria.
+• Antônio é filho de José.
+
+Então, o que podemos concluir logicamente?
+
+Considere os fatos abaixo: 
+• Pedro é aluno da EEEP.
+• Para ser aprovado, um aluno da EEEP precisa obter nota maior ou igual a 6,0 e 
+comparecer a mais de 75% das aulas. 
+• Pedro compareceu a todas as aulas e obteve nota igual a 8,0. 
+
+Então, o que podemos concluir? 
+
+Exercício Prático 
+
+1 - Através das premissas a seguir, assinale as sentenças que correspondem à conclusão correta.
+
+Se o semáforo com a luz vermelha é para o motorista parar e o verde para seguir, estando eu a pé para atravessar a rua então concluo que: 
+
+a) Posso atravessar a rua com a luz vermelha. - RESPOSTA CORRETA
+b) O semáforo tem duas luzes. 
+c) Só devo atravessar a rua com a luz verde. 
+
+
+2 - Patos são animais. Patos têm duas patas. Logo:
+
+a) Todo o animal tem duas patas. 
+b) Patos têm duas patas. - RESPOSTA CORRETA 
+c) Patos tem bico. 
+
+3 - Desafio dos nove pontos o objetivo é traçar quatro linhas retas passando por todos os nove pontos, sem tirar o lápis/caneta do papel. 
+
+Para facilitar o raciocínio e a resolução, 
+marque os nove pontos em uma folha de papel e tente resolver
+
+ - RESPOSTA CORRETA
+1 | 2 | 3
+----------
+4 | 5 | 6
+----------
+7 | 8 | 9
+
+-------------------------------------------------------
+No processo de construção de um sistema, é necessário ter conhecimento de lógica. Esse conhecimento aplicado a uma linguagem de programação vai produzir um sistema. E as linguagens de programação são muitas: Java, PHP, C#, Python, JavaScript, Delphi – só para citar algumas. No geral, elas focam em um segmento ou em uma plataforma. PHP, por exemplo, é mais utilizado para o desenvolvimento de sistemas web – no lado do servidor. Delphi e C#, por sua vez, possuem versões com foco no desenvolvimento de sistemas Windows Desktop. Mas, para construir um sistema em qualquer uma dessas linguagens, é essencial dominar as técnicas trabalhadas em lógica de programação. Essas técnicas são semelhantes, com pequenas variações ou particularidades em cada linguagem. Dessa forma, se você entender corretamente como criar programas em JavaScript, será muito mais fácil estudar outra linguagem – pois as estruturas e os conceitos básicos são os mesmos.
+
+---------------------------------------------------
+. Organizar o pensamento e colocar as coisas
+em ordem são tarefas de lógica de que necessitamos para resolver
+problemas com o uso do computador.
+Para fazer com que um problema seja resolvido corretamente por um
+sistema computacional, deve-se dar atenção especial a diversos aspectos.
+Muitos deles diretamente relacionados com as questões de lógica
+--------------------------------------------
+COMPRENDER O PROBLEMA
+
+Nas aulas iniciais de Algoritmos e Lógica de Programação, muitos alunos ficam ansiosos para resolver os exercícios rapidamente. Escrevem o programa e testam os resultados para ver se batem com os exemplos do enunciado. Porém, se não entenderem bem o que o exercício pede, não conseguirão chegar à resposta certa. Como os próprios alunos testam os programas, podem se frustrar ao perceber que algo não funciona como esperado. 
+
+Alguns pedem ajuda ao professor, enquanto outros, mais tímidos, não o fazem. Essa frustração prolongada pode levar à desistência e contribuir para as altas taxas de evasão nos cursos de computação. 
+
+Por isso, é essencial compreender o problema antes de tentar resolvê-lo. Dedique alguns minutos à leitura cuidadosa do enunciado. Esse tempo será valioso e pode evitar muitas horas de retrabalho.
+-------------------------------------------------------------
+DEDUÇÕES NA CONSTRUÇÃO DE PROGRAMAS
+
+Na construção das soluções dos exercícios de Algoritmos, faz-se necessário realizar pequenas deduções. Esse assunto é trabalhado na disciplina de Lógica Matemática (ou Lógica Formal) e contribui para o aprendizado de Lógica de Programação. Vamos ver alguns exemplos de dedução lógica que podem ser extraídas a partir da veracidade de proposições preliminares. Observe:  
+1. O carro está na garagem ou na frente da casa.  
+2. O carro não está na frente da casa.  
+Considerando que as afirmações 1 e 2 são verdadeiras, podemos deduzir que:  
+3. O carro está na garagem.  
+
+Observe outro exemplo:  
+1. Se chover, Silvana irá ao cinema.  
+2. Choveu.  
+Logo, novamente considerando que as afirmações 1 e 2 são verdadeiras, podemos concluir que:  
+3. Silvana foi ao cinema.  
+
+Utilizamos a lógica para deduzir as conclusões nos exemplos anteriores. Ela também será necessária para a resolução dos exercícios, que vão avançar de forma gradativa em níveis de complexidade. Com treinamento, aperfeiçoaremos a nossa lógica para raciocinar como os sistemas computacionais funcionam e realizar deduções sobre quais controles devem ser utilizados para melhor solucionar um problema.
+------------------------------------------------
+ENUMERAR AS ETAPAS
+
+Algumas ações realizadas em um programa seguem uma lógica sequencial, ou seja, um comando (ação) é realizado após o outro. Vamos continuar no exemplo do carro na garagem. Para sair com o carro, é necessário:  
+1. Abrir a porta do carro.  
+2. Entrar no carro.  
+3. Ligar o carro.  
+4. Abrir o portão da garagem.  
+5. Engatar a marcha ré.  
+6. Sair com o carro da garagem.  
+7. Fechar o portão.  
+8. Engatar a primeira marcha.  
+9. Dirigir ao destino.  
+
+Algumas dessas ações poderiam exigir a criação de condições. Por exemplo, o que deve ser feito se o carro não ligar? A inclusão de condições será abordado mais adiante
+------------------------------------------------------
+ANALISAR OUTRAS POSSIBLIDADES DE SOLUÇÃO
+
+você tem 3 amigos e precisa somar a idade dos 2 amigos que possuem as maiores. Como resolver esse problema? 
+
+Compreender o problema:
+
+1. Endender o objetivo: somar a idade dos dois amigos mais velhos
+2. Entender a necessidade do problema: A idade dos dois amigos mais velhos
+3. Entender o que é necessario para resolver o problema: Descobrir a idade dos 3 amigos
+
+Analisar Soluções:
+
+1 - perguntar a idade dos 3 amigos
+2 - comparar a idade de todos e descobrir quem são os dois mais velhos
+3 - somar a idade dos dois mais velhos
+
+Será que essa é a unica solução possivel para esse problema?
+
+1 - pergunte quem tem a menor idade
+2 - soma a idade dos outros dois
+
+''' 
+Apenas por humor:
+ 1 - peça para um dos amigos fazer a soma 
+'''
+
+Esses passos resolvem o problema, e talvez até com um esforço menor, quando tiver um problema que esteja dificil de resolver de uma forma, respire um pouco, pense se pode existir outra forma de solucioná-lo
+--------------------------------------------------------------
