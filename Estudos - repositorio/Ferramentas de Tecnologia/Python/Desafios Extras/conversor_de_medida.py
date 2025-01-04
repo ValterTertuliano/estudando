@@ -38,7 +38,9 @@ def main():
     del origem
     del destino
     del valor
-    del calcular_conversao
+    return calcular_conversao
 
 if __name__ == "__main__":
     main()
+    
+    del main
