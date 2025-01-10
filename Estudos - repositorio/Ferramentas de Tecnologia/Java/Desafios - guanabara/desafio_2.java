@@ -18,5 +18,7 @@ public class desafio_2 {
 
     System.out.println("A pessoa nasceu no dia " + dia + "/"+ mes + "/" +  ano);
 
+    scanner.close();
+
     }   
 }

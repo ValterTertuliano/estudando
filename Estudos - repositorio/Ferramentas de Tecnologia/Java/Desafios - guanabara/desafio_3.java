@@ -14,5 +14,7 @@ public class desafio_3 {
 
         somar = num1 + num2;
         System.out.println("Total: " + somar);
+
+        scanner.close();
     }
 }
